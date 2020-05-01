@@ -1,8 +1,12 @@
 body {
 
-    color: green;
+    color: rgb(128, 0, 53);
     background-color: #333;
-    font-size: 150%;
+    background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 45px;
     font-family: 'Satisfy',
         cursive;
     margin: 5em 25%
